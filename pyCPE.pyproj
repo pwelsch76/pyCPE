@@ -43,7 +43,6 @@
     <Folder Include="pyCPE\static\scripts\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="requirements.txt" />
     <Content Include="pyCPE\models\samples.json" />
     <Content Include="pyCPE\static\content\bootstrap.css" />
     <Content Include="pyCPE\static\content\bootstrap.min.css" />
