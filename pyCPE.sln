@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pyCPE", "pyCPE.pyproj", "{645D5F56-A164-44CE-B4F4-AAD989802DB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{645D5F56-A164-44CE-B4F4-AAD989802DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645D5F56-A164-44CE-B4F4-AAD989802DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645D5F56-A164-44CE-B4F4-AAD989802DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645D5F56-A164-44CE-B4F4-AAD989802DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01DCE471-D15B-4567-9C90-A67C89A8010E}
+	EndGlobalSection
+EndGlobal
